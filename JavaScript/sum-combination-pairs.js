@@ -12,7 +12,9 @@ Input:
 
 Output:
 -------
-	["5,35", "10,30", "15,25"]
+    ["5,35", "10,30", "15,25"]
+    
+JSFiddle: https://jsfiddle.net/ravinila/1xv8mesg/
   
 */
 
